@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="pay4free.in.prostore.Phones">
+    <com.daimajia.slider.library.SliderLayout
+        android:layout_width="match_parent"
+        android:id="@+id/Slider"
+        android:layout_height="200dp">
+
+    </com.daimajia.slider.library.SliderLayout>
+
+    <TextView
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_below="@+id/Slider"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+        android:text="Honors Phones"
+        android:background="#0091EA"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="10dp"
+        android:id="@+id/text"
+        android:layout_height="30dp" />
+
+    <RelativeLayout
+        android:layout_below="@+id/text"
+        android:background="#0091EA"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/recyclerview"
+            android:scrollbars="vertical"
+
+            />
+    </RelativeLayout>
+
+</RelativeLayout>

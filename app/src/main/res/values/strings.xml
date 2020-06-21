@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProStore</string>
+    <string name="slogan">Your Trusted Platform for Buying</string>
+    <string name="title_activity_starting">ProStore</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_electronics">Electronics</string>
+</resources>

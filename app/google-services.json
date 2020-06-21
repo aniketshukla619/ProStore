@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "623612500014",
+    "firebase_url": "https://prostore-fa83d.firebaseio.com",
+    "project_id": "prostore-fa83d",
+    "storage_bucket": "prostore-fa83d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623612500014:android:9e7decb8f977acb1",
+        "android_client_info": {
+          "package_name": "pay4free.in.prostore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623612500014-gc7m2tdd64qcuecp1nvke1o0euhs9mgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pay4free.in.prostore",
+            "certificate_hash": "f14aef934b36c782310e238ee34a419eee0ccd33"
+          }
+        },
+        {
+          "client_id": "623612500014-k6immjb30r63ob2c13obllnlf43ikcdu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "623612500014-k6immjb30r63ob2c13obllnlf43ikcdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzLKsWL3PfFQf7tfZOoSLApqpZf9oQiMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623612500014-k6immjb30r63ob2c13obllnlf43ikcdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
